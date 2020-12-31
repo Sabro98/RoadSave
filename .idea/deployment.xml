@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="inhyuk@114.70.193.160:22" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="114.70.193.160">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/inhyuk/PycharmProjects/pythonProject1" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="inhyuk@114.70.193.160:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/inhyuk/PycharmProjects/pythonProject1/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="inhyuk@114.70.193.160:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="inhyuk@114.70.193.160:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="inhyuk@114.70.193.160:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/inhyuk/PycharmProjects/pythonProject1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="inhyuk@114.70.193.160:22 (4)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="inhyuk@114.70.193.160:22 (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/inhyuk/PycharmProjects/pythonProject1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
