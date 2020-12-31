@@ -183,10 +183,11 @@ def showVideo(model):
     vidcap = cv2.VideoCapture(videoName)
     normal_count = 0
     watch_count = 0
-
+    path = '../data/test/test/'
+    os.makedirs(path, exist_ok=True)
     while(vidcap.isOpened()):
         ret, image = vidcap.read()
-        cv2.imwrite('./data/test/test/tmp.jpg', image)
+        cv2.imwrite(path+'tmp.jpg', image)
         # cv2.imshow('img', image)
         # if cv2.waitKey(33) > 0:
         #     break
