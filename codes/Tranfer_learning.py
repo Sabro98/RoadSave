@@ -191,7 +191,7 @@ def showVideo(model):
         # cv2.imshow('img', image)
         # if cv2.waitKey(33) > 0:
         #     break
-        if(int(vidcap.get(1)) % int(30/4) == 0):
+        if(int(vidcap.get(1)) % 3 == 0):
             # plt.imshow(image)
             # plt.show(block=False)
             # plt.pause(0.1)
